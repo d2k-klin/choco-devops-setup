@@ -6,7 +6,7 @@ choco install chocolatey-core.extension -y
 ######### Install choco packages
 choco install notepadplusplus googlechrome atom 7zip keepass -y
 choco install vscode -y
-choco install wsl2 --version=1.0.0 -y
+choco install wsl2 -y
 choco install git.install -y
 choco install putty.install -y
 choco install awscli -y
